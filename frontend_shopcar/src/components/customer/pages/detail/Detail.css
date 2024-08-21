@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    max-width: 1230px;
+}
+
+.text__card {
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+.size {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #999;
+}
+
+main nav {
+    height: 45px;
+}
+
+.anhchinh {
+    border: 1px solid #ccc;
+    padding: 20px 40px;
+    margin-top: 30px;
+    width: 386px;
+    height: 386px;
+}
+
+.luachon {
+    margin-top: 10px;
+    border: 1px solid #ccc;
+}
+
+.col-md-5 h1 {
+    font-size: 34px;
+    padding-top: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.giasanpham p {
+    font-size: 24px;
+    color: #7bbd42;
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.col-md-5 b {
+    font-size: 15px;
+}
+.giacu{
+    color: #999;
+    font-weight: 400;
+}
+
+.over p{
+    font-size: 15px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    border: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color:  #fff;
+    color: #7bbd42;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    font-weight: bold;
+}
+.khoangcach{
+    width: 60px;
+    height: 50px;
+}
+.dacbiet{
+    color: #fff;
+    font-weight: bold;
+    background-color: #fff;
+    border: none;
+    border: 1px solid #ccc;
+    width: 180px;
+    background-color: #7bbd42;
+}
+
+.OO{
+    color: #333;
+    font-size: 14px;
+    padding: 10px 10px 0px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.add h6{
+    font-weight: bold;
+}
+.add input{
+    width: 400px;
+    padding-left: 20px;
+    height: 35px;
+    margin-left: 10px;
+    border: none;
+    border: 1px solid #ccc;
+}
+.add button{
+    border: none;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    width: 120px;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ghichu{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.lorem{
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+footer{
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.L123{
+    font-weight: bold;
+    font-size: 17px;
+}
+.footer1 li{
+    list-style: none;
+    color: #2e3a47;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.footer1 li:hover{
+    color: #cec942;
+}
+.L1 a{
+    text-decoration: none;
+}
+
+.L12 i{
+    font-size: 17px;
+    height: 39px;
+    line-height: 37px;
+    margin: 10px 2px;
+    width: 40px;
+    background: #fff;
+    display: inline-block;
+    color: #2e3a47;
+    text-align: center;
+    border-radius: 50%;
+    transition: all 200ms ease-in-out;
+}
+
+.righttt{
+    font-size: 30px;
+    bottom: 10%;
+    left: 93% !important;
+    color: #cec942;
+}
+#scroll_top{
+    z-index: 1;
+    visibility: hidden;
+}
+
+#scroll_top.show{
+    visibility: visible;
+}
+.L2{
+    height: 54px;
+}
